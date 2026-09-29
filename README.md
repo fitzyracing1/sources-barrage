@@ -1,2 +1,5 @@
 # sources-barrage
-Barrage plain-language clone of fitzyracing1/sources
+
+Barrage clone of [fitzyracing1/sources](https://github.com/fitzyracing1/sources).
+
+Read [listing.barrage](listing.barrage).
